@@ -1,5 +1,3 @@
-# Hi there 👋
-
 ![Codewars Badge](https://www.codewars.com/users/OstapMaksymiv/badges/large)
 
 <div align="center">
