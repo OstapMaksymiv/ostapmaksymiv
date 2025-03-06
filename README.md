@@ -1,3 +1,7 @@
+# Hi there 👋
+
+![Codewars Badge](https://www.codewars.com/users/OstapMaksymiv/badges/large)
+
 <div align="center">
   <div style="display: flex; justify-content: space-between; align-items: center;">
     <div style="width: 45%;">
