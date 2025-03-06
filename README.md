@@ -1,4 +1,3 @@
-![Codewars Badge](https://www.codewars.com/users/OstapMaksymiv/badges/large)
 
 <div align="center">
   <div style="display: flex; justify-content: space-between; align-items: center;">
@@ -7,3 +6,5 @@
     </div>
   </div>
 </div>
+
+![Codewars Badge](https://www.codewars.com/users/OstapMaksymiv/badges/large)
