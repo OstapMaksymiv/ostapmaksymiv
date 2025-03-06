@@ -7,4 +7,4 @@
   </div>
 </div>
 
-![Codewars Badge](https://www.codewars.com/users/OstapMaksymiv/badges/large)
+![Codewars Badge](https://www.codewars.com/users/OstapMaksymiv/badges/small)
